@@ -1,3 +1,4 @@
+package easy;
 public class twoSum {
     public static void main(String[] args) {
         //given an array of int (nums) and an int (target), return indicies of 2 numbers so they add up to target from nums. Assume there is 1 solution and same element cannot be used twice.
